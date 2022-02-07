@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Keshav</h1>
-<h3 align="center">I am Keshav, fully skilled in MERN Stack and aspire to build pixel perfect Website💻</h3>
+
+<h1 align="center">I am Keshav, fully skilled in MERN Stack and aspire to build pixel perfect Website💻</h1>
 
 <p align="left"> <a href="https://twitter.com/keshavmanuja2" target="blank"><img src="https://img.shields.io/twitter/follow/keshavmanuj12?logo=twitter&style=for-the-badge" alt="keshavmanuj12" /></a> </p>
 
