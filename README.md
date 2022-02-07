@@ -9,12 +9,16 @@
 
 - 📫 How to reach me **keshavmanuja12@gmail.com**
 
+### Like to 
+🏸- Play Badminton;
+🚴🏾- Cycling
+
 - ⚡ Fun fact **👉🏾 Jolly person always hungry for good food and good code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/keshavmanuj12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keshavmanuj12" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/KeshavManuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshavmanuja" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/keshav-manuja-b626ab196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshavmanuja" height="30" width="40" /></a>
 <a href="https://instagram.com/keshavmanuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keshavmanuja" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/keshavmanuja12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="keshavmanuja12" height="30" width="40" /></a>
 </p>
