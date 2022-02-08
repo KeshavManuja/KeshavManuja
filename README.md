@@ -54,6 +54,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KeshavManuja&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="KeshavManuja" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeshavManuja&layout=compact&border_radius=0" alt="KeshavManuja" height="139" />
 </p>
 
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KeshavManuja)   -->
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=KeshavManuja&theme=elegant)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <br/>
 
 <h3 align="left"><i>Support:</i></h3>
